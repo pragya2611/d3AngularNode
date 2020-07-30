@@ -27,7 +27,7 @@
 ## Description
 
 Api endpoints prepared for Ecommerce camera app in nestjs and typeorm. Database used is MySQl. Compodoc is used to generate documentation.
-
+*Note :- This repo has some typeorm module issues , fixes are being applied.
 
 ## Installation
 
