@@ -26,7 +26,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Api endpoints prepared for Ecommerce camera app in nestjs and typeorm. Database used is MySQl. Compodoc is used to generate documentation.
+
 
 ## Installation
 
@@ -37,7 +38,7 @@ $ npm install
 ## Running the app
 
 ```bash
-# development
+# development to start and create documentation
 $ npm run start
 
 # watch mode
